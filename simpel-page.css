@@ -5123,3 +5123,71 @@ max-width: 50%;
 }
 
 </style>
+
+
+<style>
+  
+    #site-header {
+    
+     background-size: cover;
+    }
+
+    #site-header,
+    #site-header .site-title a {
+     color: ##333;
+    }
+
+    .site-header {
+     font-family: Noto Serif;
+    }
+
+    .site-title {
+     font-family: Noto Serif;
+    }
+    
+    .site-descriptions {
+     font-family: Noto Serif;
+    }
+
+    #main-menu {
+     font-family: Noto Sans;
+    }
+    
+    .single .entry-title,
+    .page .entry-title {
+     font-family: Noto Serif;
+    }
+
+    .entry-content h1,
+    .entry-content h2,
+    .entry-content h3,
+    .entry-content h4,
+    .entry-content h5,
+    .entry-content h6 {
+     font-family: Noto Serif;
+    }
+
+    .single .entry-content,
+    .page .entry-content {
+     font-family: Noto Serif;
+    }
+       #wrapper {
+     max-width: 100%;
+    }
+
+    .entry-header,
+    .entry-content,
+    .entry-footer {
+    
+    }
+
+    .article-wrapper {
+     padding-top: 10%;
+    }
+
+    .comments-area {
+     padding: 10% !important;
+    }
+    
+ </style>
+
